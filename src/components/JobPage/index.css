@@ -1,0 +1,86 @@
+.jobPage-bg {
+  padding: 10px 50px 10px 50px;
+  background-color: black;
+}
+
+.job-card-container {
+  background-color: #202020;
+  border-radius: 10px;
+  padding: 30px;
+  color: white;
+}
+
+.skill-card {
+  display: flex;
+  flex-direction: row;
+
+  margin-right: 30px;
+}
+
+.skill-logo {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.skill-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.life-at-company-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.life-at-company-image {
+  height: 150px;
+  width: 300px;
+}
+
+.similar-card-container {
+  width: 300px;
+}
+
+.logo {
+  height: 60px;
+  width: 60px;
+}
+
+.similar-grand-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.similar-jobs-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.icon-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#title {
+  font-size: ;
+}

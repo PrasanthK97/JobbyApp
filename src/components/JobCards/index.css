@@ -1,0 +1,37 @@
+.card-container {
+  background-color: #202020;
+  border-radius: 10px;
+  padding: 30px;
+  color: white;
+}
+
+.logo {
+  height: 45px;
+  margin-right: 6px;
+}
+
+.top-layer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.middle-layer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.sub-middle-layer {
+  display: flex;
+  flex-direction: row;
+}
+
+#type {
+  margin-left: 25px;
+}
+
+#title {
+  font-weight: bold;
+}
